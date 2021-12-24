@@ -24,8 +24,3 @@ Studentai šioje versijoje skirstomi pagal 1-ąją strategiją: kiekvienas stude
 | O2 |0.028930 s | 0.311897 s| 3.411218 s | 22.026003 s | neuzteko atminties |
 | O3 |0.049524 s | 0.315273 s| 3.317303 s | 23.113235 s | neuzteko atminties |
 
-
-
-# v1.2
-
-  Antroje šios užduoties versijoje buvo paprašyta realizuoti Class duomenys reikiamus ir tinkančius (turinčius prasmę) operatorius. Mano manymu mano kode niekur nebuvo reikalingi operatoriai tobulinant v1.1 darbo koda, todėl nieko ir nepakeičiau
